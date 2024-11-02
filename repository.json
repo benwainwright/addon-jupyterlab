@@ -1,0 +1,6 @@
+{
+  "name": "Home Assistant Community Add-on: JupyterLab (Forked)",
+  "udev": true,
+  "url": "https://github.com/benwainwright/addon-jupyterlab",
+  "maintainer": "benwainwright"
+}
