@@ -15,6 +15,7 @@ init: false
 map:
   - config:rw
   - share:rw
+host_network: true
 ports:
   8099/tcp: 1895
 options:
